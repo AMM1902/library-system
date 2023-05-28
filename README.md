@@ -21,3 +21,7 @@ Before installing and using this project, ensure that you have the following req
 - **JCalendar**: This project requires an additional Java library called `JCalendar` for advanced functionality. Download the `JCalendar` JAR file from [JCalendar's Download Page](https://toedter.com/jcalendar/). Add the downloaded JAR to your project's classpath.
 
   > Note: Make sure to check the specific version requirements and dependencies of the `JCalendar` before downloading.
+
+## Contributors
+- [Aung Myat Min](https://github.com/AMM1902)
+- Saw Mya San Aung
