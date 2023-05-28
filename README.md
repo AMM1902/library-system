@@ -16,6 +16,10 @@ Before installing and using this project, ensure that you have the following req
 
   > Note: During the installation process, make sure to take note of the MySQL server hostname, port number, and credentials (username and password) for configuring the project.
 
+- **Eclipse IDE**: Install Eclipse, an integrated development environment (IDE) for Java development. You can download Eclipse from the [Eclipse website](https://www.eclipse.org/downloads/). Choose the appropriate Eclipse package for your operating system and Java development needs.
+
+  > Note: Ensure that you have Java JDK installed before installing Eclipse, as Eclipse relies on Java to run.
+  
 - **JDBC Driver**: This project uses JDBC to connect to the MySQL database. Make sure you have the appropriate JDBC driver for MySQL. You can download the MySQL JDBC driver from [MySQL Connector/J](https://dev.mysql.com/downloads/connector/j/).
 
 - **JCalendar**: This project requires an additional Java library called `JCalendar` for advanced functionality. Download the `JCalendar` JAR file from [JCalendar's Download Page](https://toedter.com/jcalendar/). Add the downloaded JAR to your project's classpath.
