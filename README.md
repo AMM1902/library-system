@@ -62,12 +62,4 @@ You can download the whole database file at [resources/database](./resources/dat
 
 ## Disclaimer
 
-The sample data included in the database of this project is randomly generated and intended for demonstration purposes only. It does not represent any real-world data or entities.
-
-The purpose of the sample data is to showcase the functionality and features of the system. Please note that any resemblance to actual persons, organizations, or events is purely coincidental.
-
-While efforts have been made to ensure the accuracy and validity of the sample data, there may be inconsistencies or errors. It is recommended not to rely on the sample data for any real-world analysis or decision-making.
-
-If you intend to use this project in a production or live environment, it is essential to replace the sample data with relevant and appropriate data specific to your use case.
-
-The project developers and contributors are not liable for any consequences arising from the use of the sample data or its interpretation.
+The sample data included in the database of this project is randomly generated and intended for demonstration purposes only. It does not represent any real-world data or entities. The purpose of the sample data is to showcase the functionality and features of the system. Please note that any resemblance to actual persons, organizations, or events is purely coincidental. It is recommended not to rely on the sample data for any real-world analysis or decision-making. If you intend to use this project in a production or live environment, it is essential to replace the sample data with relevant and appropriate data specific to your use case. The project developers and contributors are not liable for any consequences arising from the use of the sample data or its interpretation.
