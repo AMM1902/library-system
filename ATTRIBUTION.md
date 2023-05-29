@@ -14,4 +14,4 @@
 - [borrow.png](./resources/icon/borrow.png) - made by [max.icons](https://www.flaticon.com/authors/max.icons) from [www.flaticon.com](https://www.flaticon.com/)
 - [issued_book.png](./resources/icon/issued_book.png) - made by [mikan933 ](https://www.flaticon.com/authors/mikan933) from [www.flaticon.com](https://www.flaticon.com/)
 
-The [projectImg.png](./resources/img/projectImg.png) is provided by **Saw Mya San Aung**.
+The [projectImg.png](./resources/img/projectImg.png) is provided by [Saw Mya San Aung](https://www.facebook.com/profile.php?id=100030230751288&mibextid=ZbWKwL).
