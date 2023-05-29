@@ -6,7 +6,7 @@ This is my first Java project using Java Swing and Mysql to automate the process
 - [Requirements](#requirements)
 - [Features](#features)
 - [Usage](#usage)
-- [Contributors](#contributors)
+- [Project Members](#project-members)
 - [Disclaimer](#disclaimer)
 
 ## Introduction
@@ -47,7 +47,7 @@ This is the preview of the Library Management System.
 
   > Note: To borrow books, you need to have a member ID.
 
-## Contributors
+## Project Members
 - [Aung Myat Min](https://github.com/AMM1902)
 - Saw Mya San Aung
 
