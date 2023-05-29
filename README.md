@@ -54,6 +54,7 @@ You can download the whole database file at [resources/database](./resources/dat
 ## Usage
 - Fork the repository and clone it to your local machine.
 - Run `Main.java` under [src/library](./src/library/) in your IDE to start the program.
+  > Note: To log in as a librarian or member, you need to check the database for the required data.
 
 ## Project Members
 - [Aung Myat Min](https://github.com/AMM1902)
