@@ -5,6 +5,7 @@ This is my first Java project using Java Swing and Mysql to automate the process
 - [Introduction](#introduction)
 - [Requirements](#requirements)
 - [Features](#features)
+- [Database](#database)
 - [Usage](#usage)
 - [Project Members](#project-members)
 - [Disclaimer](#disclaimer)
