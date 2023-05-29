@@ -52,7 +52,7 @@ You can download the whole database file at [resources/database](./resources/dat
 >Note: You can check table structure and data in [library_table_struct.sql](./library_table_struct.sql) and [library_data.sql](./library_data.sql)
 
 ## Usage
-- Run `Main.java` under src/library in your IDE to start the program.
+- Run `Main.java` under [src/library](./src/library/) in your IDE to start the program.
 
   > Note: To borrow books, you need to have a member ID.
 
