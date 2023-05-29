@@ -58,7 +58,7 @@ You can download the whole database file at [resources/database](./resources/dat
 
 ## Project Members
 - [Aung Myat Min](https://github.com/AMM1902)
-- Saw Mya San Aung
+- [Saw Mya San Aung](https://www.facebook.com/profile.php?id=100030230751288&mibextid=ZbWKwL)
 
 ## Disclaimer
 
