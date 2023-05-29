@@ -54,8 +54,6 @@ You can download the whole database file at [resources/database](./resources/dat
 ## Usage
 - Run `Main.java` under [src/library](./src/library/) in your IDE to start the program.
 
-  > Note: To borrow books, you need to have a member ID.
-
 ## Project Members
 - [Aung Myat Min](https://github.com/AMM1902)
 - Saw Mya San Aung
