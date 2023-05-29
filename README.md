@@ -48,6 +48,9 @@ This is the preview of the Library Management System.
 ![Relational Diagram](./resources/database/Relation-Diagram-of-Database.drawio.png)  
 *Relational Diagram of the Library Database*
 
+You can download the whole database file at [resources/database](./resources/database/) and import it to your Mysql using \``Mysql Workbench`\` or \``mysql`\` command-line tools.
+>Note: You can check table structure and data in [library_table_struct.sql](./library_table_struct.sql) and [library_data.sql](./library_data.sql)
+
 ## Usage
 - Run `Main.java` under src/library in your IDE to start the program.
 
