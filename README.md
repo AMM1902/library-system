@@ -44,8 +44,7 @@ This is the preview of the Library Management System.
 
 ## Database
 
-![Relational Diagram](./resources/database/Relation-Diagram-of-Database.drawio.png)
-
+![Relational Diagram](./resources/database/Relation-Diagram-of-Database.drawio.png)  
 *Relational Diagram of the Library Database*
 
 ## Usage
