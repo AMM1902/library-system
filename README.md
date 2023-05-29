@@ -28,6 +28,19 @@ Before installing and using this project, ensure that you have the following req
 
   > Note: Make sure to check the specific version requirements and dependencies of the `JCalendar` before downloading.
 
+## Features
+
+This is the preview of the Library Management System.
+
+![Welcome Page](./features/welcome-page.png)
+*Figure 1: This is the welcome page.*
+
+![Librarian Menu Page](./features/librarian-menu-page.png)
+*Figure 2: This is the librarian menu page.*
+
+![Member Menu Page](./features/member-menu-page.png)
+*Figure 3: This is the member menu page.*
+
 ## Usage
 - Run `Main.java` under src/library in your IDE to start the program.
 
