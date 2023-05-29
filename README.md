@@ -26,6 +26,11 @@ Before installing and using this project, ensure that you have the following req
 
   > Note: Make sure to check the specific version requirements and dependencies of the `JCalendar` before downloading.
 
+## Usage
+- Run `Main.java` under src/library in your IDE to start the program.
+
+  > Note: To borrow books, you need to have a member ID.
+
 ## Contributors
 - [Aung Myat Min](https://github.com/AMM1902)
 - Saw Mya San Aung
