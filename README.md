@@ -52,6 +52,7 @@ You can download the whole database file at [resources/database](./resources/dat
 >Note: You can check table structure and data in [library_table_struct.sql](./library_table_struct.sql) and [library_data.sql](./library_data.sql)
 
 ## Usage
+- Fork the repository and clone it to your local machine.
 - Run `Main.java` under [src/library](./src/library/) in your IDE to start the program.
 
 ## Project Members
