@@ -42,6 +42,12 @@ This is the preview of the Library Management System.
 ![Member Menu Page](./features/member-menu-page.png)
 *Figure 3: This is the member menu page.*
 
+## Database
+
+![Relational Diagram](./resources/database/Relation-Diagram-of-Database.drawio.png)
+
+*Relational Diagram of the Library Database*
+
 ## Usage
 - Run `Main.java` under src/library in your IDE to start the program.
 
