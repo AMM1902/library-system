@@ -4,6 +4,7 @@ This is my first Java project using Java Swing and Mysql to automate the process
 ## Table of Contents
 - [Introduction](#introduction)
 - [Requirements](#requirements)
+- [Features](#features)
 - [Usage](#usage)
 - [Contributors](#contributors)
 - [Disclaimer](#disclaimer)
